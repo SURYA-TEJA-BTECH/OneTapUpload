@@ -56,6 +56,9 @@ Additionally, users can retrieve a list of all their uploaded files.
 | POST   | `/files/upload`               | Upload a file            |
 | GET    | `/files/download/user/{userId}` | Get all uploaded files for a user |
 
+## Swagger
+http://localhost:8080/swagger-ui/index.html#/
+
 ![image](https://github.com/user-attachments/assets/b0d8243e-4de2-4555-b90c-645314f29d55)
 ![image](https://github.com/user-attachments/assets/079b83a4-73ff-4598-8e08-e63f88674d5c)
 ![image](https://github.com/user-attachments/assets/72f1a7da-197c-427a-840a-d11a0a26aa45)
